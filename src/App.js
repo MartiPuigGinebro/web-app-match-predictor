@@ -27,11 +27,11 @@ const App = () => {
     }, []);
 
     return (<div className="app">
-        <h1>Betluco</h1>
+        <h1>Betlucky</h1>
         <br/>
         <br/>
         <h2>
-            Betluco is a web application that predicts the results of football matches.
+            Betlucky is a web application that predicts the results of football matches.
             The application is based on the football prediction API. The application is developed by <a
             href="https://github.com/MartiPuigGinebro">Martí Puig</a>.</h2>
         <div
